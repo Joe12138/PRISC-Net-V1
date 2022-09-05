@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python opt_quintic_generation.py -f seg_4.pkl & python opt_quintic_generation.py -f seg_3.pkl & python opt_quintic_generation.py -f seg_8.pkl & python opt_quintic_generation.py -f seg_1.pkl & python opt_quintic_generation.py -f seg_6.pkl & python opt_quintic_generation.py -f seg_5.pkl & python opt_quintic_generation.py -f seg_10.pkl & python opt_quintic_generation.py -f seg_9.pkl & python opt_quintic_generation.py -f seg_7.pkl & python opt_quintic_generation.py -f seg_2.pkl
